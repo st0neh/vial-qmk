@@ -25,7 +25,7 @@
     "diode_direction": "ROW2COL",
     "rgblight": {
         "led_count": 5,
-        "led_map": [4, 0, 1, 2, 3],
+        "led_map": [0, 1],
         "sleep": true,
         "animations": {
             "alternating": true,
